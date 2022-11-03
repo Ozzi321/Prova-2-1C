@@ -13,6 +13,16 @@ header {
 	width: 25%;
 }
 
+.imagem{
+
+border: 8px double black;
+margin: 10px 20px 30px 40px;
+	
+}
+
+
+
+
 
 nav {
 	position: absolute;
